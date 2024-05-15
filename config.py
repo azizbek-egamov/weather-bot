@@ -6,7 +6,7 @@ from googletrans import Translator
 
 tr = Translator()
 
-TOKEN = '7002675047:AAG5p7chNHV7KGR_xwXmXwWCgE1arXNSNh8'
+TOKEN = '7162331887:AAFW5qxhaF6M-Z2LyfPU6fGWzEY153JFfTk'
 
 channel = "WebKoderUz_Baza"
 admin = "5668945618"
